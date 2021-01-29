@@ -43,7 +43,7 @@ public class BubbleSor {
         //作为内循环次数指针，减少不必要的循环消耗（默认1是因为N-1次冒泡公式）
         int k = 1;
         //外循环（i=1是因为最后一次没必要执行，已经是最小的）
-        for (int i=1;i<nElems-1;i++){
+        for (int i=0;i<nElems-1;i++){
 
             int j;
             //内层循环（执行比较、替换）
@@ -55,7 +55,7 @@ public class BubbleSor {
                     a[j+1]=c;
                 }
             }
-            System.out.println("第"+i+"次外循环,共执行内循环："+j+"次");
+            System.out.println("第"+(i+1)+"次外循环,共执行内循环："+j+"次");
             k++;
         }
     }
