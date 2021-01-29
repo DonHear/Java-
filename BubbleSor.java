@@ -65,11 +65,12 @@ public class BubbleSor {
      * 注：书中的排序形式
      */
     public void bookSor(){
-        //空闲指引，用于元素交换时临时寄存
         int out,in;
         for (out=nElems-1;out>1;out--){
             for (in=0;in<out;in++){
-                swap(in,in+1);
+                if (a[in]>a[in+1]){
+                    swap(in,in+1);
+                }
             }
         }
     }
