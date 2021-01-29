@@ -13,7 +13,6 @@ public class BubbleSor {
         a = new long[max];
         nElems = 0;
     }
-
     public static void main(String[] args) {
         //声明数组大小
         BubbleSor bubbleSor = new BubbleSor(20);
