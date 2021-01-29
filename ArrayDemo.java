@@ -27,7 +27,6 @@ public class ArrayDemo {
         System.out.println("int[]="+Arrays.toString(delArrays(arrays, 29)));
     }
 
-
     /**
      * 声明一个固定长度的数组并赋值（不重复）
      * 起始元素从1开始依次递增
