@@ -98,6 +98,4 @@ public class ArrayDemo {
         System.out.println("删除成功");
         return arrays;
     }
-
-
 }
