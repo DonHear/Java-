@@ -4,4 +4,6 @@
 本人不是大神，只是一个和你一样为理想奋斗的打工人  
 
 ## 案例导航
-[数组的增删查](https://github.com/DonHear/Java-/commit/4a9169ada6c9d7af8fb1d1fc73a0a5d3cac1e9ca)  
+[数组的增删查](https://github.com/DonHear/Java-/blob/main/ArrayDemo.java)  
+
+[冒泡排序](https://github.com/DonHear/Java-/blob/main/BubbleSor.java)  
