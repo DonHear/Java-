@@ -7,3 +7,5 @@
 [数组的增删查](https://github.com/DonHear/Java-/blob/main/ArrayDemo.java)  
 
 [冒泡排序](https://github.com/DonHear/Java-/blob/main/BubbleSor.java)  
+
+[选择排序](https://github.com/DonHear/Java-/blob/main/SelectSort.java)  
